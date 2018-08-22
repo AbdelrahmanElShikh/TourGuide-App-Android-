@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clubAhly">Al Ahly</string>
+    <string name="clubMkasa">El-Mkasa</string>
+    <string name="clubEnpi">Enpi</string>
+    <string name="clubSmouha">Smouha</string>
+    <string name="clubIsmaily">Ismaeli</string>
+    <string name="clubDegla">Wadi Degla</string>
+    <string name="clubGouna">El Gouna</string>
+    <string name="clubAhlyAddress">Hassan Ma\'moon, Al Manteqah as Sadesah, Madinet Nasr, Cairo Governorate</string>
+    <string name="clubbMkasaAddress">70 El-Gomhoreya, Al Azbakeyah, Cairo, Cairo Governorate</string>
+    <string name="clubEnpiAddress">Suez Rd, Izbat Al Haganah, Nasr City, Cairo Governorate</string>
+    <string name="clubSmouhaAddress">Smouha Square، Victor Emanouil Al Thaleth, Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+    <string name="clubIsmailyAddress">Reda Street، Reda, Ismailia, Ismailia Governorate</string>
+    <string name="clubDeglaAddress">Maadi 4th District, Zahraa El Maadi ,Cairo, Egypt</string>
+    <string name="clubGounaAddress">Kafer el Gouna , Red Sea Governorate</string>
+    <string name="funAzharPark">Al Azhar Park</string>
+    <string name="funMagicLand">Magic Land</string>
+    <string name="funDreamPark">Dream Park</string>
+    <string name="funAdrenalin">Adrenalin Paintball</string>
+    <string name="funAzharParkInfo">ADDRESS :\nSalah Salem St\, El\-Darb El-Ahmar\, Cairo Governorate.\nDESCREPTION\n
+Al\-Azhar Park is a public park located in Cairo\, Egypt. Among several honors\, this park is listed as one of the world\'s sixty great public spaces by the Project for Public Space</string>
+    <string name="funMagicLandInfo">ADDRESS :\n7 el ethad st.\، BOULAK EL DAKROUR\، Giza, Giza Governorate.
+\nDESCREPTION\nMagicland was a television magic show for children that ran for 23 years on the Memphis\, Tennessee\, station WMC-TV. It holds the Guinness World Record for the longest continuously running television magic series in the world</string>
+    <string name="funDreamParkInfo">ADDRESS :\n
+        6th of October\, Giza Governorate.
+\nDESCREPTION\nIt\'s the best place for family to play Games and have good Time Together.</string>
+    <string name="funAdrenalinInfo">ADDRESS :\nGate 1 El Hezam El Akhdar, Cairo 11511, Egypt.
+\nDESCREPTION\n
+Paintball is a competitive team shooting sport in which players eliminate opponents from play by hitting them with spherical dye-filled gelatin capsules (\"paintballs\") that break upon impact. Paintballs are usually shot using a low-energy air weapon called a paintball marker that is powered by compressed air (nitrogen) or carbon dioxide.</string>
+    <string name="name">name</string>
+    <string name="image">image</string>
+    <string name="info">info</string>
+    <string name="hotelRamsesHilton">Ramses Hilton</string>
+    <string name="hotelConradCairo">Conrad Cairo</string>
+    <string name="hotelHeliopolis">Heliopolis Tower Hotel</string>
+    <string name="hotelPyramids">Hilton Pyramids Golf</string>
+    <string name="hotelRamsesHiltonInfo">ADDRESS :\n1115 Corniche El Nile\, Cairo\, Egypt.\n
+\nSet in the heart of downtown Cairo and a stone\'s throw away from the Egyptian Museum. The hotel boasts stunning views of the River Nile.</string>
+    <string name="hotelConradCairoInfo">ADDRESS :\n1191Corniche El Nil\, Cairo,\ Egypt\n
+stylish suites beautifully overlooking the River Nile,10 minutes\' walk from the business district\, 30-45 minutes from Cairo International Airport.</string>
+    <string name="hotelHeliopolisInfo">ADDRESS :\nEl Saheed Sayed Zakaria Street\, Cairo\, Egypt.\n\n
+
+Perfectly placed in Cairo\'s affluent presidential quarter, this hotel offers luxurious accommodations\, 18 restaurants/bars\, and extensive event space.</string>
+    <string name="hotelPyramidsInfo">ADDRESS :\nDreamland\, El Wahat Road\, 6th of October City\, Egypt.\n\n
+Hilton Pyramids Golf\, in 6th of October City\, is your gateway to unique business experiences\, 18- and 9-hole golf courses\, a spa and an amusement park.</string>
+    <string name="museumEgyptian">Egyptian Museum</string>
+    <string name="museumCoptic">Coptic Museum</string>
+    <string name="museumAbdeen">Abdeen Palace</string>
+    <string name="museumManial">Manial Palace</string>
+    <string name="museumPyramids">Giza Pyramids</string>
+    <string name="museumTower">Cairo Tower</string>
+    <string name="museumEgyptianInfo">ADDRESS : \n15 Meret Basha\, Ismailia\, Qasr an Nile\, Cairo Governorate.\nDESCREPTION : \nThe Egyptian Museum in Cairo contains the world\'s most extensive collection of pharaonic antiquities\; no visit to Egypt is complete without a trip through its galleries. The original collection was established in the late 19th century under Auguste Mariette and housed in Boulaq. The objects were moved in 1891 to the palace of Ismail Pasha in Giza before being transferred in 1902 to the current building at Tahrir Square\, which is the first purpose-built museum edifice in the world.</string>
+    <string name="museumCopticInfo">ADDRESS : \n3 Mari Gerges\, Kom Ghorab\, Misr Al Qadimah\, Cairo Governorate.\nDESCREPTION : \nThe Coptic Museum is a museum in Coptic Cairo\, Egypt with the largest collection of Egyptian Christian artifacts in the world. It was founded by Marcus Simaika in 1908 to house Coptic antiquities. The museum traces the history of Egypt from its beginnings to the present day. It was erected on 8,000 square meter land offered by the Coptic Orthodox Church of Alexandria, under the guardianship of Pope Cyril V.</string>
+    <string name="museumAbdeenInfo">ADDRESS : \nEl-Gomhoreya Square\, Rahbet Abdin\, Abdeen\, Cairo Governorate.\nDESCREPTION : \nAbdeen Palace (Arabic: قصر عابدين\u200E) is a historic Cairo palace, and one of the official residences and the principal workplace of the President of Egypt, located above Qasr el-Nil Street in eastern Downtown Cairo\, Egypt.</string>
+    <string name="museumManialInfo">ADDRESS : \n1 Al Saraya\, Al Manial\, Cairo Governorate.\nDESCREPTION : \nThe Manial Palace and Museum\, is a former Ottoman dynasty era palace and grounds on Rhoda Island on the Nile. It is located in the Sharia Al-Saray area in the El-Manial district of southern Cairo, Egypt. The palace and estate has been preserved as an Antiquities Council directed historic house museum and estate\, reflecting the settings and lifestyle of the late 19th- and early 20th-century Egyptian royal prince and heir apparent. The residence compound, composed of five separate and distinctively styled buildings, is surrounded by Persian gardens within an extensive English Landscape garden estate park, along a small branch of the Nile.</string>
+    <string name="museumPyramidsInfo">ADDRESS : \nAl Haram Street Giza Governorate.\nDESCREPTION : \nThe Pyramids of Giza consist of the Great Pyramid of Giza (also known as the Pyramid of Cheops or Khufu and constructed c. 2560–2540 BC), the somewhat smaller Pyramid of Khafre (or Chephren) a few hundred meters to the south-west, and the relatively modest-sized Pyramid of Menkaure (or Mykerinos) a few hundred meters farther south-west. The Great Sphinx lies on the east side of the complex. Current consensus among Egyptologists is that the head of the Great Sphinx is that of Khafre. Along with these major monuments are a number of smaller satellite edifices, known as \"queens\" pyramids, causeways and valley pyramids.</string>
+    <string name="museumTowerInfo">ADDRESS : \nZamalek, Cairo Governorate.\nDESCREPTION : \nThe Cairo Tower  is a free-standing concrete tower located in Cairo, Egypt. At 187 m (614 ft), it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for 10 years, until 1971 when it was surpassed by Hillbrow Tower in South Africa.</string>
+    <string name="clubs">Clubs</string>
+    <string name="museums">Museums</string>
+    <string name="fun">Fun</string>
+    <string name="hotels">Hotels</string>
+    <string-array name="tabTitle">
+        <item>@string/clubs</item>
+        <item>@string/museums</item>
+        <item>@string/fun</item>
+        <item>@string/hotels</item>
+    </string-array>
+    <string name="hotelInformation">Hotel Information</string>
+    <string name="title">Title</string>
+    <string name="locationName">Location Name</string>
+    <string name="locationInfo">Location Info</string>
+    <string name="hotelName">Hotel Name</string>
+</resources>
